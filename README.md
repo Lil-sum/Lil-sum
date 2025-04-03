@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lil-sum
 - 👀 I’m interested in Baskertball,Guitar
-- 🌱 I’m currently learning Webpack and Axure
+- 🌱 I m currently studying web design and app development.
 - 📫 You can find me in 163Email:xsum0755@163.com
 
 - 嗨，您好！我是Lil-sum
