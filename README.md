@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lil-sum
+- 👋 Hi, I’m Lil-sum
 - 👀 I’m interested in Baskertball,Guitar
 - 🌱 I’m currently learning Webpack and Axure
 - 📫 You can find me in 163Email:xsum0755@163.com
