@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Lil-sum
-- 👀 I’m interested in Baskertball,Guitar
+- 👋 Hi, I’m Lil-sum，I come fromCN-SZ
+- 👀 I’m interested in Baskertball,Guitar吉他和篮球
 - 🌱 I m currently studying web design and app development.
 - 📫 You can find me in 163Email:xsum0755@163.com
 
-- 嗨，您好！我是Lil-sum
+- 嗨，您好！我是Lil-sum，我来自CN-SZ
 - 这是我的个人简介
 - 我喜欢篮球和吉他
 - 同时也专注于网页开发与制作，Wechat微信小程序制作，公司网站制作，APP制作...
